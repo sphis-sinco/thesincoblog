@@ -3,6 +3,7 @@ title: "Thought: daily articles"
 datePublished: Fri Feb 07 2025 03:47:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm6u87idj000509lfb3d58onz
 slug: thought-daily-articles
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738948689659/4314f3c0-0fae-479f-bac2-dba86e60258f.webp
 tags: thought, sinco
 
 ---
