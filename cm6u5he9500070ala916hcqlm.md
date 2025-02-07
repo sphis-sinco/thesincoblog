@@ -3,11 +3,12 @@ title: "Hello world"
 datePublished: Fri Feb 07 2025 02:31:39 GMT+0000 (Coordinated Universal Time)
 cuid: cm6u5he9500070ala916hcqlm
 slug: hello-world
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738948733348/50ba9788-edc7-4580-b654-6e0daf75ee08.png
 tags: random, sinco
 
 ---
 
-```plaintext
+```bash
 Hello World
 ```
 
