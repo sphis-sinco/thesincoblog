@@ -89,6 +89,6 @@ If you don’t like it then you probably should look at the [docs](https://lime.
 
 You don’t have to use trace to figure out what compiler flags are being used thanks to the docs so uh, yeah.
 
-Ok time for the article quote:
+Ok, time for the article quote:
 
 “Start with a mess and clean it up later.“
