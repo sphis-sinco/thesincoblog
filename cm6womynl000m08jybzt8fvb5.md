@@ -3,6 +3,7 @@ title: "Learnings: Haxeflixel project XML"
 datePublished: Sat Feb 08 2025 21:03:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm6womynl000m08jybzt8fvb5
 slug: learnings-haxeflixel-project-xml
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739048649613/3fd06fb9-c004-4eed-9ac3-de271562a225.png
 tags: learning, learnings, sinco
 
 ---
