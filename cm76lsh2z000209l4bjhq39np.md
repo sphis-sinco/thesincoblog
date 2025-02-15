@@ -8,9 +8,7 @@ tags: devlog, sinco
 
 ---
 
-Would you like to help on Sinco and Portilizen?
-
-Fill out this google form: [https://forms.gle/YG4KV71dWmuPRZaA8](https://forms.gle/YG4KV71dWmuPRZaA8).
+Would you like to help on Sinco and Portilizen? Fill out this google form: [https://forms.gle/YG4KV71dWmuPRZaA8](https://forms.gle/YG4KV71dWmuPRZaA8).
 
 When it comes to the Pre-Alpha stage of the game I am hoping to give a fun little demo for people to play.
 
