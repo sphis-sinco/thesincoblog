@@ -4,7 +4,6 @@ datePublished: Sat Feb 15 2025 19:41:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm76lsh2z000209l4bjhq39np
 slug: sap-devlog-2152025
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739640009863/73604d5e-a5d1-45ff-9080-c90a37ee7ef2.png
-tags: devlog, sinco
 
 ---
 
