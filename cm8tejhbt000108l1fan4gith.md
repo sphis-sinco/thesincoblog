@@ -12,7 +12,7 @@ Since it's inception of l of my youtube channels, there has never been a proper 
 
 But finally l have decided upon some form of an upload scedule for the “Portable\_Sinco” channel.
 
-Every Monday and Friday will be a major video upload at the times of 7am, 11am, 3pm, and 7pm.
+Every Monday and Friday will be a major video.
 
 As for the unimportant videos they will most likely just get posted on mondays and fridays unless there are important enough to defy the scedule.
 
