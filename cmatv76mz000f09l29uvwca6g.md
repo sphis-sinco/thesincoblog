@@ -10,7 +10,7 @@ tags: news, sinco
 
 Hey everyone!
 
-I’m excited to share that Issue 70 of Sinco Retold is now live!
+I’m excited to share that [Issue 70 of Sinco Retold](https://discord.com/channels/1274153997368037518/1373158308034383893/1373691331481702562) is now live!
 
 This issue was especially fun to put together because it features one of my favorite fight scenes in the series so far. For the choreography, I took heavy inspiration from classic Dragon Ball manga panels. In particular, I referenced this chapter on [MangaDex](https://mangadex.org/chapter/5e6fdd5b-3fb1-4f09-b757-792da25d7e37/3) to guide the pacing, posing, and momentum of the action. Toriyama’s dynamic panel work has always been a huge influence, and recreating that energy in my own style was both a challenge and a joy.
 
