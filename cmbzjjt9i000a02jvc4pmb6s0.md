@@ -28,3 +28,5 @@ So, mark your calander for june 17th to june 18th. On [the official Salida Aleat
 # Salida Aleatoria is hiring!
 
 So far the Salida Aleatoria team is only 2 people, Sinco and Yakasha. Both knowing each other in real life and thus allowing the ability to work closely and quickly despite Yakasha working. But more developers would defenitely help make more quality over quantity products.
+
+Email salidaaleat@gmail.com if you would like to join us.
