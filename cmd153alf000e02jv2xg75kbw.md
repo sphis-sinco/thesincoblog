@@ -3,6 +3,7 @@ title: "Dreamland"
 datePublished: Sun Jul 13 2025 03:53:18 GMT+0000 (Coordinated Universal Time)
 cuid: cmd153alf000e02jv2xg75kbw
 slug: dreamland
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752378812505/370986fc-b485-4038-bd6c-9a1b92986d29.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1752378793698/fe7a3b89-35aa-4fa6-8347-26804304adff.png
 tags: devlog, sinco
 
