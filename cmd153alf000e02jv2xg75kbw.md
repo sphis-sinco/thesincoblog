@@ -212,6 +212,8 @@ I still wanna make a rhythm game…Infact no I wanna make **Friday Night Funkin*
 
 # Main priority: Funkin Legacy
 
+## 7/11
+
 Starting off with 3.0 for the version mainly cause the official FNF 3.0 was the engine overhaul and weekend 1 update. And also in this timeline I’m talking about, weekend 1 was 2.9, and from 2.9 to 3.0 there was alot of updates just towards polishing and 3.0 was the MAJOR one that took awhile.
 
 * Made psych engine compilable for hashlink
